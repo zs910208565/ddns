@@ -7,10 +7,10 @@ read -p "Please input your auth_key: " auth_key
 read -p "Please input your zone_name: " zone_name
 read -p "Please input your zone_name: " record_name
 # CHANGE THESE
-#auth_email="user@example.com"
-#auth_key="c2547eb745079dac9320b638f5e225cf483cc5cfdda41" # found in cloudflare account settings
-#zone_name="example.com"
-#record_name="www.example.com"
+#auth_email="z910208565@gmail.com"
+#auth_key="089efeffc046d5c1838208a3e2cdfc414ce78" # found in cloudflare account settings
+#zone_name="coolcloud.live"
+#record_name="修改.coolcloud.live"
 
 # MAYBE CHANGE THESE
 ip=$(curl -s http://ipv4.icanhazip.com)
